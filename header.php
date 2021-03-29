@@ -15,7 +15,7 @@
 	<!-- Top box -->
 		<!-- Logo & Site Name -->
 		<div class="placeholder">
-			<div class="parallax-window" data-parallax="scroll" data-image-src="img/about-03.jpg">
+			<div class="parallax-window" data-parallax="scroll" data-image-src="img/about-05.jpg">
 				<div class="tm-header">
 					<div class="row tm-header-inner">
 						<div class="col-md-6 col-12">
